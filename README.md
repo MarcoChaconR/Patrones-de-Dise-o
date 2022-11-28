@@ -32,6 +32,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 | Java | [Builder](https://github.com/MarcoChaconR/Buider) |Builder| Separar la construcción de un objeto complejo de su representación, permitiendo que un mismo proceso de construcción genere varias representaciones. |
 | Java | [FactoryMethod](https://github.com/MarcoChaconR/FactoryMethod)|Factory Method| Defina una interfaz para crear un solo objeto, pero deje que las subclases decidan qué clase instanciar. Factory Method permite que una clase difiera la creación de instancias a las subclases. |
 | Java | [Prototype](https://github.com/MarcoChaconR/Prototype)| Prototype | Crea nuevos objetos a partir del "esqueleto" de un objeto existente, aumentando así el rendimiento y reduciendo al mínimo las huellas de memoria. |
+| Java | [PrototypeShallowClone](https://github.com/MarcoChaconR/PrototypeShallowClone)| Prototype Shallow Clone | Crea objetos nnuevos de una instancia ya existente, implementa la interface de Java Cloneable, unicamente copia los tipos de datos básicos. |
 | Java | [Singleton](https://github.com/MarcoChaconR/Singleton)| Singleton | 	Asegúrese de que una clase tenga solo una instancia y proporcione un punto de acceso global a ella. |
 | Java | [DependencyInjection]() | Dependency Injection | Una clase acepta los objetos que requiere de un inyector en lugar de crear los objetos directamente. |
 <br />
