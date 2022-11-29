@@ -35,7 +35,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 | Java | [PrototypeShallowClone](https://github.com/MarcoChaconR/PrototypeShallowClone)| Prototype Shallow Clone | Crea objetos nuevos de una instancia ya existente, implementa la interface de Java Cloneable, unicamente copia los tipos de datos básicos. |
 | Java | [PrototypeDeepClone](https://github.com/MarcoChaconR/PrototypeDeepClone)| Prototype Deep Clone | Crea objetos nuevos de una instancia ya existente, implementa la interface de Java Cloneable, este patron clona objetos completos. |
 | Java | [Singleton](https://github.com/MarcoChaconR/Singleton)| Singleton | Este patrón se asegura de que una clase tenga solo una instancia y proporcione un punto de acceso global a ella. |
-| Java | [DependencyInjection]() | Dependency Injection | Una clase acepta los objetos que requiere de un inyector en lugar de crear los objetos directamente. |
+| Java | [multiton](https://github.com/MarcoChaconR/Multiton) | Multiton | Un patron que delimita y administra la creación de instancias de un objeto, mediante el uso de una llave en un HasMap. |
 <br />
 
 **[⬆ Regresar al indice ](#Indice)**
