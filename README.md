@@ -17,10 +17,10 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 
 ## Indice
 
-* [Creacionales](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Creacionales)
-* [Estructurales](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Estructurales)
-* [Comportamiento](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Comportamiento)
-* [Patrones de concurrencia ](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Comportamiento)
+* [Creacionales](#Creacionales)
+* [Estructurales](#Estructurales)
+* [Comportamiento](#Comportamiento)
+* [Patrones de concurrencia ](#Comportamiento)
 ---
 
 <br>
@@ -38,7 +38,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 | Java | [DependencyInjection]() | Dependency Injection | Una clase acepta los objetos que requiere de un inyector en lugar de crear los objetos directamente. |
 <br />
 
-**[⬆ Regresar al indice ](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Indice)**
+**[⬆ Regresar al indice ](#Indice)**
 
 ---
 
@@ -49,7 +49,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 
 <br />
 
-**[⬆ Regresar al indice ](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Indice)**
+**[⬆ Regresar al indice ](#Indice)**
 
 ---
 
@@ -60,7 +60,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 
 <br />
 
-**[⬆ Regresar al indice ](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Indice)**
+**[⬆ Regresar al indice ](#Indice)**
 
 ---
 
@@ -71,7 +71,7 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 
 <br />
 
-**[⬆ Regresar al indice ](https://github.com/MarcoChaconR/Patrones-de-Dise-o/edit/main/README.md#Indice)**
+**[⬆ Regresar al indice ](#Indice)**
 
 ---
 
