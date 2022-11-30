@@ -36,6 +36,10 @@ Por el momento se empezara en lenguaje Java; sin embargo, se espera poder amplia
 | Java | [PrototypeDeepClone](https://github.com/MarcoChaconR/PrototypeDeepClone)| Prototype Deep Clone | Crea objetos nuevos de una instancia ya existente, implementa la interface de Java Cloneable, este patron clona objetos completos. |
 | Java | [Singleton](https://github.com/MarcoChaconR/Singleton)| Singleton | Este patrón se asegura de que una clase tenga solo una instancia y proporcione un punto de acceso global a ella. |
 | Java | [multiton](https://github.com/MarcoChaconR/Multiton) | Multiton | Un patron que delimita y administra la creación de instancias de un objeto, mediante el uso de una llave en un HasMap. |
+| Java | [LazyInitialization](https://github.com/MarcoChaconR/LazyInitialization) | Lazy Initialization | El patrón Lazy Initialitation es la técnica de retrasar la creación de un objeto, el cálculo de un valor o algún otro proceso costoso hasta la primera vez que se requiere. Es un tipo de evaluación perezosa que se refiere específicamente a la creación de instancias de objetos u otros recursos. |
+
+
+
 <br />
 
 **[⬆ Regresar al indice ](#Indice)**
